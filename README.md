@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamshad10&label=Profile%20views&color=0e75b6&style=flat" alt="jamshad10" /> </p>
 
+<p align="left"> <a href="https://twitter.com/jamshad_10" target="blank"><img src="https://img.shields.io/twitter/follow/jamshad_10?logo=twitter&style=for-the-badge" alt="jamshad_10" /></a> </p>
+
 - 🔭 I’m currently working on **digiCADEMY**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **Web Development,MERN**
 
