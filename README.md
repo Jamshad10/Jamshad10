@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jamshad_10" target="blank"><img src="https://img.shields.io/twitter/follow/jamshad_10?logo=twitter&style=for-the-badge" alt="jamshad_10" /></a> </p>
 
-- 🔭 I’m currently working on **digiCADEMY**
+- 🔭 I’m currently working on **digiCADEMY(MERN Stack Project)**
 
 - 🌱 I’m currently learning **SQL**
 
